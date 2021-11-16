@@ -2,4 +2,4 @@
 
 ## This is a Subheading created on Github
 
-All of this content add to the Readme file has been added from my remote Git Repository
+All of this content added to the Readme file has been added from my remote Git Repository
